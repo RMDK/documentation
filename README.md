@@ -4,3 +4,5 @@ plotly's github-pages api documentation repository
 - the [gh-pages](http://github.com/plotly/documentation/tree/gh-pages) branch is the deploy branch, automatically updated with `$ rake deploy` inside [source](http://github.com/plotly/documentation/tree/source)
 
 interested in contributing? see [Contributing.md](https://github.com/plotly/documentation/blob/source/Contributing.md)
+
+made some test edits, how do you like?
